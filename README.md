@@ -14,6 +14,7 @@ A fullstack web application built using Vue 2, Express.js, and MongoDB to demons
 ---
 
 ## Project Structure
+```sh
 takehome_assignment/
 ├── backend/
 │   ├── config/
@@ -43,6 +44,7 @@ takehome_assignment/
 │   ├── package.json
 │   └── vue.config.js
 └── README.md
+```
 
 ---
 
